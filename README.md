@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hitaishree1
+- 👋 Hi, I’m @Hitaishree
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
 - 💞️ I’m looking to collaborate on projects related to data science
